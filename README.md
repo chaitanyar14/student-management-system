@@ -53,18 +53,23 @@ Frontend (S3) → Backend (EC2) → Database (RDS)
 
 ---
 
+
 ## 📸 Screenshots
 
 ### Dashboard
+![Dashboard](screenshots/dashboard.png)
 
 ### Login Page
+![Login](screenshots/login-page.png)
 
 ### AWS EC2 Setup
+![EC2](screenshots/aws-ec2.png)
 
 ### AWS RDS Setup
+![RDS](screenshots/aws-rds.png)
 
 ### AWS S3 Hosting
-
+![S3](screenshots/aws-s3.png)
 ---
 
 ## 📂 Project Structure
