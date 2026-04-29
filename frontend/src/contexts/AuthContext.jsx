@@ -16,7 +16,7 @@ export const AuthProvider = ({ children }) => {
     } else {
       delete axios.defaults.headers.common['Authorization'];
     }
-    axios.defaults.baseURL = import.meta.env.VITE_API_URL || 'http://localhost:5000/api';
+    axios.defaults.baseURL = import.meta.env.VITE_API_URL || 'http://3.6.40.170:5000/api';
   };
 
   useEffect(() => {
